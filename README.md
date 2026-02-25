@@ -1,5 +1,8 @@
+![logo](https://github.com/ritikmoral74-creator/ritikmoral74-creator/blob/main/header_gif.gif)
+<img align="right" alt="Kryptora" width="400" src="https://github.com/ritikmoral74-creator/ritikmoral74-creator/blob/main/programmer.gif">
+
 <h1 align="center">Hi 👋, I'm Ritik Moral</h1>
-<h3 align="center">A passionate frontend Data Analyst from India</h3>
+<h3 align="center">A passionate frontend Data Analyst from India</h3><img align="right" alt="Kryptora" width="400" src="https://github.com/ritikmoral74-creator/ritikmoral74-creator/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikmoral74-creator&label=Profile%20views&color=0e75b6&style=flat" alt="ritikmoral74-creator" /> </p>
 
